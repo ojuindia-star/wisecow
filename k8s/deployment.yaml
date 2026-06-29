@@ -21,7 +21,7 @@ spec:
 
       - name: wisecow
 
-        image: OJASVI/wisecow:latest
+        image: ojasvi/wisecow:latest
 
         imagePullPolicy: Always
 
